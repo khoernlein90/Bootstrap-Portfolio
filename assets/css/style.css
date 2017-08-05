@@ -7,6 +7,9 @@ nav {
 .jumbotron {
 	background-color: lightgray;
 	border-bottom-color: #2c2c2d;
+	border-top-style: solid;
+	border-top-color: #2c2c2d;
+	border-top-width: 1px;
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
 }
